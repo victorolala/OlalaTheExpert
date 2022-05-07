@@ -5,9 +5,9 @@ Specialized in HTML, CSS, JS Java, Kotlin for frontend & PHP, MySQL, Firebase fo
 Frameworks used include; Django (Python) Vue (Js), Laravel (PHP) Flutter (Dart)  among others.
 
 
-**OlalaTheExpert/OlalaTheExpert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--**OlalaTheExpert/OlalaTheExpert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-Here are some ideas to get you started:
+<!--Here are some ideas to get you started:-->
 
 - 🔭 I’m currently working on a Flutter and Web System Applications ...
 - 🌱 I’m currently learning C#
