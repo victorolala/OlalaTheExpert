@@ -9,7 +9,7 @@ Frameworks used include; Django (Python) Vue (Js), Laravel (PHP) Flutter (Dart) 
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on a Flutter Application ...
+- 🔭 I’m currently working on a Flutter and Web System Applications ...
 - 🌱 I’m currently learning C#
 - 👯 I’m looking to collaborate on different web and App systems
 - 🤔 I’m looking for a web or mobile developer job
