@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Victor Olala ✔
 I'm a Full-Stack Web & Mobile Developer
-Specialized in HTML, CSS, JS Java, Kotlin for frontend & PHP, MySQL, Firebase for Fronted Development.
+Specialized in HTML, CSS, JS Java, Kotlin for frontend & PHP, MySQL, Firebase for Frontend & Backend Development.
 
 Frameworks used include; Django (Python) Vue (Js), Laravel (PHP) Flutter (Dart)  among others.
 
