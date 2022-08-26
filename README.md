@@ -19,4 +19,4 @@ Additionally, I've automated robotic processes (RPA) using different platforms.
 - 📫 How to reach me: +25471611660 or email olalavictor01@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
-<center><img src="bg.jpeg"></center>
+<center><img src="bg.png"></center>
