@@ -1,5 +1,7 @@
-### Hi there 👋 I'm Victor Olala ✔
+<img src="bg1.svg" width="400">
+<br><h1>### Hi there 👋 I'm Victor Olala ✔</h1></br>
 I'm a Full-Stack Web & Mobile Developer
+
 Specialized in HTML, CSS, JS, Java, Kotlin & PHP, MySQL, Firebase for Frontend & Backend Development.
 
 Frameworks used include; Django (Python) Vue (Js), Laravel (PHP) Flutter (Dart)  among others.
@@ -19,5 +21,5 @@ Additionally, I've automated robotic processes (RPA) using different platforms.
 - 📫 How to reach me: +25471611660 or email olalavictor01@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
-<center><img src="bg1.svg"></center>
-<center><img src="bg.png"></center>
+
+<center><img src="bg.png" width="70%"></center>
