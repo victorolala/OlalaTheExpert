@@ -1,6 +1,7 @@
+
+<h1>### Hi there 👋 I'm Victor Olala ✔</h1>
 <img src="bg1.svg" width="400">
-<br><h1>### Hi there 👋 I'm Victor Olala ✔</h1></br>
-I'm a Full-Stack Web & Mobile Developer
+<br>I'm a Full-Stack Web & Mobile Developer</br>
 
 Specialized in HTML, CSS, JS, Java, Kotlin & PHP, MySQL, Firebase for Frontend & Backend Development.
 
