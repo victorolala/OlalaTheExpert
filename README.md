@@ -19,9 +19,9 @@ Additionally, I've automated robotic processes (RPA) using different platforms.
 
 ### 📫 Get in touch :
 
-[![Mail](https://img.shields.io/badge/-Say%20Hi!-green?style=for-the-badge&logo=gmail)](mailto:olalavictor01@gmail.com)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-green?style=for-the-badge&logo=Linkedin)](www.linkedin.com/in/victor-olala-bbb4311b6/)
-[![Twitter](https://img.shields.io/badge/-Twitter-green?style=for-the-badge&logo=twitter)](https://twitter.com/OlalaVictor)
+[![Mail](https://img.shields.io/badge/-Say%20Hi!-white?style=for-the-badge&logo=gmail)](mailto:olalavictor01@gmail.com)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin)](www.linkedin.com/in/victor-olala-bbb4311b6/)
+[![Twitter](https://img.shields.io/badge/-Twitter-red?style=for-the-badge&logo=twitter)](https://twitter.com/OlalaVictor)
 
 <!--**OlalaTheExpert/OlalaTheExpert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
