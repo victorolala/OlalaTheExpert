@@ -13,7 +13,8 @@ Additionally, I've automated robotic processes (RPA) using different platforms.
   <tr>
       <td><img width="380px" align="left" src="https://github-readme-stats.vercel.app/api?username=OlalaTheExpert&show_icons=true&theme=red"/></td>
       <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OlalaTheExpert&hide=css&layout=compact&theme=green"/></td>      
-  </tr>   
+  </tr>  
+    
 </table>
 
 ### 📫 Get in touch :
@@ -34,5 +35,6 @@ Additionally, I've automated robotic processes (RPA) using different platforms.
 - 📫 How to reach me: +25471611660 or email olalavictor01@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
+
 
 
